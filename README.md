@@ -26,5 +26,6 @@ optional arguments:
   -h, --help  show this help message and exit
 ```
 
-
+# Stop Client
+- Control-C (if it just hangs and nothing is happening we're having firewall issues and you may need to do kill -9)
 
