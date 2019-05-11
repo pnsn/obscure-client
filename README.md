@@ -12,7 +12,7 @@ For Eric and company
 - I will let you know what to set the STOMP_PORT to
 
 ```
-usage: amq_listener.py [-h] amq_broker
+usage: python amq_listener.py [-h] amq_broker
 
 Connects to ActiveMQ broker of specified ShakeAlert host. Listens for
 ShakeAlert DMMessages and GMMessages, prints some header info to stdout and
