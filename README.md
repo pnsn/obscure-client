@@ -9,6 +9,7 @@ For Eric and company
 # Usage
 - Set environment variable DM_USER to be your User Display user name
 - Set environment variabl DM_WP to be your User Display pw
+- I will let you know what to set the STOMP_PORT to
 
 ```
 usage: amq_listener.py [-h] amq_broker
